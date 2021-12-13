@@ -48,6 +48,6 @@ df_test=pd.read_csv('dataset/test/label_binary.csv',dtype=str)
 Make sure that csv files stay saved as csv and are not altered - if the format is changed the algorithm will NOT work as intended.
 
 ## Addtional Features and Extras
-- Trained model weights can be provided on request as they weight 0.5 and 1GB each therefore could not be included in this repository.
+- Trained model weights can be provided on request as they weight 0.5GB and 1GB each therefore could not be included in this repository.
 
 - Test2 is a small test set created out of the initial data for initial unseen data testing and predictions - could be removed or integrated back into the base dataset since 200 test images were given
