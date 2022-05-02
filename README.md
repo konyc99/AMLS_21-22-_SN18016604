@@ -1,7 +1,4 @@
 ![N|Solid](https://targetcareers.co.uk/sites/targetcareers.co.uk/files/public/styles/logo_320x213/public/ucl%20logo_sml_blk.jpg?itok=uBdAgP8Z)
-# AMLS Assignment
-## APPLIED MACHINE LEARNING SYSTEM ELEC0134 21/22
-
 ## Task introduction
 This repository covers a classification task of MRI scans of human brains containing tumors. I proposes 2 ways of approaching the task – binary classification to detect the existence of any tumor and more precise detection of 3 specific types of tumors.
 Two deep learning and one non-deep learning models are proposed and compared based on accuracy, memory efficiency and workload needed to preprocess the data and train the models to achieve the results.
